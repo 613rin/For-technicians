@@ -1,0 +1,13 @@
+D:\PP\上位机加密算法\申请访问窗口\申请访问2\申请\申请\bin\Debug\申请.exe.config
+D:\PP\上位机加密算法\申请访问窗口\申请访问2\申请\申请\bin\Debug\申请.exe
+D:\PP\上位机加密算法\申请访问窗口\申请访问2\申请\申请\bin\Debug\申请.pdb
+D:\PP\上位机加密算法\申请访问窗口\申请访问2\申请\申请\bin\Debug\SunnyUI.Common.dll
+D:\PP\上位机加密算法\申请访问窗口\申请访问2\申请\申请\bin\Debug\SunnyUI.dll
+D:\PP\上位机加密算法\申请访问窗口\申请访问2\申请\申请\obj\Debug\申请.csproj.AssemblyReference.cache
+D:\PP\上位机加密算法\申请访问窗口\申请访问2\申请\申请\obj\Debug\申请.Form1.resources
+D:\PP\上位机加密算法\申请访问窗口\申请访问2\申请\申请\obj\Debug\申请.Properties.Resources.resources
+D:\PP\上位机加密算法\申请访问窗口\申请访问2\申请\申请\obj\Debug\申请.csproj.GenerateResource.cache
+D:\PP\上位机加密算法\申请访问窗口\申请访问2\申请\申请\obj\Debug\申请.csproj.CoreCompileInputs.cache
+D:\PP\上位机加密算法\申请访问窗口\申请访问2\申请\申请\obj\Debug\申请.csproj.CopyComplete
+D:\PP\上位机加密算法\申请访问窗口\申请访问2\申请\申请\obj\Debug\申请.exe
+D:\PP\上位机加密算法\申请访问窗口\申请访问2\申请\申请\obj\Debug\申请.pdb
